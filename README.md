@@ -1,2 +1,2 @@
-# Python_Code_for_Computer_Symbolic_Mathematics
+# Python Code for Computer Symbolic Mathematics
 13 Python files cooresponsding to chapters.
